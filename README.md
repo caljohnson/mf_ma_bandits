@@ -1,6 +1,6 @@
 # Multifidelity Extension of the Multi-Armed Bandit
 
-Extends multi-armed bandit classes to include multi-fidelity versions, and implements the MF-UCB algorithm as detailed in [Kandasamy et. al.](https://arxiv.org/abs/1610.09726)
+Extends [Byron Galbraith's](https://github.com/bgalbraith/bandits) multi-armed bandit Python classes to include multi-fidelity versions, and implements the MF-UCB algorithm as detailed in [Kandasamy et. al.](https://arxiv.org/abs/1610.09726)
 
 ---
 
